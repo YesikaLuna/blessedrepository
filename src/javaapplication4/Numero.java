@@ -10,6 +10,7 @@ package javaapplication4;
  */
 public class Numero {
     /**ATRIBUTOS PRIVADOS*/
+    /**mas o menos*/
     /*********BVCBCVBV BCV******/
     
 }
